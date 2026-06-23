@@ -1,3 +1,5 @@
+> **Archived** — archived on 2026-06-23, no longer maintained. Open issues and PRs were closed without merging.
+
 # MarkItDown
 
 [![PyPI](https://img.shields.io/pypi/v/markitdown.svg)](https://pypi.org/project/markitdown/)
